@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	
-	/* 	pada dasarnya array multidimensi ini seperti Matriks
+	/* 	Pada dasarnya array multidimensi ini seperti Matriks
 		Misalnya, array 2D dapat dianggap sebagai matriks dengan baris dan kolom, 
 		di mana setiap elemen dapat diakses menggunakan dua indeks: 
 		satu untuk baris dan satu untuk kolom.
