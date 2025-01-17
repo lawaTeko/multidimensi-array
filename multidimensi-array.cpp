@@ -1,4 +1,4 @@
-// lawaTeko, Kairatu
+// lawaTeko, Kairatu, Mahu
 // membuat Multidimensi array khususnya 2D dan 3D, maaf jika ada sedikit kesalahan pengkodean
 #include <iostream>
 using namespace std;
